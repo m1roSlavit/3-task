@@ -1,0 +1,15 @@
+F:\UZNU\ITtrans\3\bin\Debug\netcoreapp3.1\3.exe
+F:\UZNU\ITtrans\3\bin\Debug\netcoreapp3.1\3.deps.json
+F:\UZNU\ITtrans\3\bin\Debug\netcoreapp3.1\3.runtimeconfig.json
+F:\UZNU\ITtrans\3\bin\Debug\netcoreapp3.1\3.runtimeconfig.dev.json
+F:\UZNU\ITtrans\3\bin\Debug\netcoreapp3.1\3.dll
+F:\UZNU\ITtrans\3\bin\Debug\netcoreapp3.1\3.pdb
+F:\UZNU\ITtrans\3\obj\Debug\netcoreapp3.1\3.csprojAssemblyReference.cache
+F:\UZNU\ITtrans\3\obj\Debug\netcoreapp3.1\3.AssemblyInfoInputs.cache
+F:\UZNU\ITtrans\3\obj\Debug\netcoreapp3.1\3.AssemblyInfo.cs
+F:\UZNU\ITtrans\3\obj\Debug\netcoreapp3.1\3.csproj.CoreCompileInputs.cache
+F:\UZNU\ITtrans\3\obj\Debug\netcoreapp3.1\3.dll
+F:\UZNU\ITtrans\3\obj\Debug\netcoreapp3.1\3.pdb
+F:\UZNU\ITtrans\3\obj\Debug\netcoreapp3.1\3.genruntimeconfig.cache
+F:\UZNU\ITtrans\3\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+F:\UZNU\ITtrans\3\obj\Debug\netcoreapp3.1\3.csproj.CopyComplete

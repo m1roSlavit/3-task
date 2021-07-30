@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GevIMVYyHl63CHXzAKnXloF5ZPLy9+EBzYQMrXrhjSxPfjONQlA+Z28XdfINnSshU45oMdU6veH1pYxl7J/O5Q==",
+  "success": true,
+  "projectFilePath": "F:\\UZNU\\ITtrans\\3\\3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ПК\\.nuget\\packages\\portable.bouncycastle\\1.8.10\\portable.bouncycastle.1.8.10.nupkg.sha512"
+  ],
+  "logs": []
+}
