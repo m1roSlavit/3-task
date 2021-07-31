@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GevIMVYyHl63CHXzAKnXloF5ZPLy9+EBzYQMrXrhjSxPfjONQlA+Z28XdfINnSshU45oMdU6veH1pYxl7J/O5Q==",
+  "dgSpecHash": "+o372DYlKT3rI6PI0KpP8i8psWcS24f6q14OdfsvqY4IU3Gilf37CM3T88a6FNm8YQPAgKvMHb+l3DDKEBtDbA==",
   "success": true,
-  "projectFilePath": "F:\\UZNU\\ITtrans\\3\\3.csproj",
+  "projectFilePath": "F:\\UZNU\\ITtrans\\3-task\\3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ПК\\.nuget\\packages\\portable.bouncycastle\\1.8.10\\portable.bouncycastle.1.8.10.nupkg.sha512"
   ],

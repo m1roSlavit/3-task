@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\UZNU\\ITtrans\\3\\3.csproj": {}
+    "F:\\UZNU\\ITtrans\\3-task\\3.csproj": {}
   },
   "projects": {
-    "F:\\UZNU\\ITtrans\\3\\3.csproj": {
+    "F:\\UZNU\\ITtrans\\3-task\\3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\UZNU\\ITtrans\\3\\3.csproj",
+        "projectUniqueName": "F:\\UZNU\\ITtrans\\3-task\\3.csproj",
         "projectName": "3",
-        "projectPath": "F:\\UZNU\\ITtrans\\3\\3.csproj",
+        "projectPath": "F:\\UZNU\\ITtrans\\3-task\\3.csproj",
         "packagesPath": "C:\\Users\\ПК\\.nuget\\packages\\",
-        "outputPath": "F:\\UZNU\\ITtrans\\3\\obj\\",
+        "outputPath": "F:\\UZNU\\ITtrans\\3-task\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ПК\\AppData\\Roaming\\NuGet\\NuGet.Config",

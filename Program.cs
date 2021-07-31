@@ -10,8 +10,8 @@ namespace _3
         static void Main(string[] args)
         {
             Random rnd = new Random();
-            string[] inputMoves = Console.ReadLine().Split(' ');
-            int movesCount = inputMoves.Length;
+            string[] moves = args;
+            int movesCount = moves.Length;
             int compChoiceIdx = rnd.Next(0, movesCount);    
             if(movesCount % 2 == 0 || movesCount < 3)
             {
@@ -25,16 +25,16 @@ namespace _3
             string HMACKey = String.Join("", BitConverter.ToString(HMACkeyBytes).Split('-'));
 
             var hash = new HMACSHA256(HMACkeyBytes);
-            byte[] compChoiceBytes = Encoding.ASCII.GetBytes(inputMoves[compChoiceIdx]);
+            byte[] compChoiceBytes = Encoding.ASCII.GetBytes(moves[compChoiceIdx]);
             byte[] HMACValue = hash.ComputeHash(compChoiceBytes);
             Console.WriteLine("HMAC:");
             Console.WriteLine(String.Join("", BitConverter.ToString(HMACValue).Split('-')));
 
 
             Console.WriteLine("Available moves:");
-            for (int i = 0; i < inputMoves.Length; i++)
+            for (int i = 0; i < moves.Length; i++)
             {
-                Console.WriteLine($"{i + 1}. {inputMoves[i]}");
+                Console.WriteLine($"{i + 1}. {moves[i]}");
             }
             Console.WriteLine($"0. exit");
             Console.WriteLine("Enter your move:");
@@ -52,8 +52,8 @@ namespace _3
                     break;
                 }
             }
-            Console.WriteLine($"Your move: {inputMoves[userChoiceIdx]}");
-            Console.WriteLine($"Computer move: {inputMoves[compChoiceIdx]}");
+            Console.WriteLine($"Your move: {moves[userChoiceIdx]}");
+            Console.WriteLine($"Computer move: {moves[compChoiceIdx]}");
 
             userChoiceIdx++;
             compChoiceIdx++;
